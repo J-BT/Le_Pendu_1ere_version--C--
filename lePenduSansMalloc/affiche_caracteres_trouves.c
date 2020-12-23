@@ -1,4 +1,7 @@
-void affiche_caracteres_trouves (int* ptaille_mot_secret, char* pcaractere_joueur, char pmot_secret[], char pmot_cache[])
+void affiche_caracteres_trouves (int* ptaille_mot_secret,
+                                char* pcaractere_joueur,
+                                char pmot_secret[],
+                                char pmot_cache[])
 {
     for (int i = 0;i<*ptaille_mot_secret;i++)
     {

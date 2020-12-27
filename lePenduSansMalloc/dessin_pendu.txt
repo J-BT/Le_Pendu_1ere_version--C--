@@ -57,7 +57,7 @@ printf("=======xx=======");
 
 
 
-printf("***x===xx*******");	3			entièrement montée
+printf("***x===xx*******");	3			entiÃ¨rement montÃ©e
 printf("***|***||*******");	
 printf("*******||*******");	
 printf("*******||*******");	
@@ -88,7 +88,7 @@ printf("=======xx=======");
 
 
 
-printf("***x===xx*******");	0		caca final
+printf("***x===xx*******");	0		
 printf("***|***||*******");	
 printf("*__O__*||*******");	
 printf("***|***||*******");	
